@@ -18,7 +18,8 @@ const GITHUB_USER = 'Raveendiran-RR';
 const REPO_NAME = 'TechEvents';
 const BRANCH = 'main';
 const JSON_FILE = 'events.json';
-const API_URL = `https://cdn.jsdelivr.net/gh/${GITHUB_USER}/${REPO_NAME}@${BRANCH}/${JSON_FILE}`;
+// const API_URL = `https://cdn.jsdelivr.net/gh/${GITHUB_USER}/${REPO_NAME}@${BRANCH}/${JSON_FILE}`;
+const API_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/${BRANCH}/${JSON_FILE}?t=${Date.now()}`;
 
 async function loadEvents() {
   try {
