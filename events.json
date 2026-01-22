@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Speaking & Events",
+    "subtitle": "Sharing insights on Docker, Kubernetes, and AI infrastructure across Bangalore's thriving tech community",
+    "image": "https://raw.githubusercontent.com/Raveendiran-RR/TechEvents/main/images/hero-banner.jpg"
+  },
+  "stats": {
+    "talks": "10+",
+    "attendees": "500+",
+    "communities": "3",
+    "role": "Docker Community Leader"
+  },
+  "upcoming": [
+    {
+      "id": "ai-cloud-day-2025",
+      "title": "AI in the Cloud Day Bengaluru",
+      "date": "2025-08-23",
+      "displayDate": "August 23, 2025",
+      "location": "SONY India Software Centre, Bangalore",
+      "talk": "Building smarter AI systems with Microsoft Autogen",
+      "description": "Presenting on AI agent orchestration using Microsoft AutoGen framework, demonstrating how to build intelligent multi-agent systems with Docker.",
+      "tags": ["Docker", "AutoGen", "Multi-Agent AI"],
+      "organizer": "Docker Bangalore",
+      "eventLink": "https://www.meetup.com/Docker-Bangalore/",
+      "slidesLink": "",
+      "image": "https://raw.githubusercontent.com/Raveendiran-RR/TechEvents/main/images/ai-cloud-day-2025.jpg"
+    }
+  ],
+  "past": [
+    {
+      "id": "devtools-day-2025",
+      "title": "DevTools Day Bengaluru",
+      "date": "2025-01-18",
+      "displayDate": "January 18, 2025",
+      "year": "2025",
+      "location": "Bangalore",
+      "talk": "Generative AI 102: A Recap of 101 with Ollama and n8n",
+      "description": "Deep dive into GenAI applications using Ollama and n8n workflow automation, demonstrating practical implementations of AI systems.",
+      "tags": ["GenAI", "Ollama", "n8n", "Docker"],
+      "organizer": "Collabnix + Docker Bangalore",
+      "eventLink": "https://www.meetup.com/collabnix/events/304968647/",
+      "slidesLink": "",
+      "image": "https://raw.githubusercontent.com/Raveendiran-RR/TechEvents/main/images/devtools-day-2025.jpg"
+    },
+    {
+      "id": "kubetools-day-2024",
+      "title": "Kubetools Day 3.0",
+      "date": "2024-06-15",
+      "displayDate": "2024",
+      "year": "2024",
+      "location": "Bangalore",
+      "talk": "Generative AI 101: A Complex World Simplified",
+      "description": "Introduction to Generative AI concepts and practical applications for developers and DevOps practitioners.",
+      "tags": ["Kubernetes", "GenAI", "AI Basics"],
+      "organizer": "Collabnix Community",
+      "eventLink": "https://www.meetup.com/collabnix/",
+      "slidesLink": "",
+      "image": "https://raw.githubusercontent.com/Raveendiran-RR/TechEvents/main/images/kubetools-day-2024.jpg"
+    },
+    {
+      "id": "neo4j-workshop-2024",
+      "title": "Neo4j Summer Workshop",
+      "date": "2024-07-20",
+      "displayDate": "Summer 2024",
+      "year": "2024",
+      "location": "Bangalore",
+      "talk": "Hands-on Neo4j Setup & Basics + Assignment Briefing",
+      "description": "Workshop on graph database fundamentals and Neo4j implementation, covering setup, basic queries, and practical exercises.",
+      "tags": ["Neo4j", "GraphDB", "Workshop"],
+      "organizer": "Graph Database Bengaluru",
+      "eventLink": "https://lu.ma/neo4j-workshop-cohort-1-gdb-blr",
+      "slidesLink": "",
+      "image": "https://raw.githubusercontent.com/Raveendiran-RR/TechEvents/main/images/neo4j-workshop-2024.jpg"
+    }
+  ],
+  "contact": {
+    "email": "your-email@example.com",
+    "linkedin": "https://www.linkedin.com/in/raveendiranrr/",
+    "twitter": "https://twitter.com/RaveendiranRR",
+    "website": "https://raveendiran.com"
+  }
+}

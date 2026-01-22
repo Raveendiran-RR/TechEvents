@@ -1,0 +1,106 @@
+========================================
+UPLOAD INSTRUCTIONS FOR TECHEVENTS
+========================================
+
+✅ FILES CREATED:
+1. events.json - Your speaking events data
+2. README.md - Complete documentation  
+3. wordpress-code.html - Code to paste in WordPress
+4. .gitignore - Git ignore rules
+5. images/ - Folder for event photos
+
+========================================
+STEP 1: UPLOAD TO GITHUB
+========================================
+
+METHOD A: GitHub Web Interface (Easiest)
+-----------------------------------------
+1. Go to: https://github.com/Raveendiran-RR/TechEvents
+2. Click "Add file" → "Upload files"
+3. Drag all files from this folder
+4. Write commit message: "Add TechEvents structure and data"
+5. Click "Commit changes"
+
+METHOD B: Git Command Line
+---------------------------
+1. Open Terminal
+2. Navigate to this folder:
+   cd /path/to/TechEvents
+   
+3. Initialize and push:
+   git init
+   git add .
+   git commit -m "Initial commit: TechEvents structure"
+   git branch -m main
+   git remote add origin https://github.com/Raveendiran-RR/TechEvents.git
+   git push -u origin main
+
+========================================
+STEP 2: UPLOAD EVENT PHOTOS
+========================================
+
+1. Go to: https://github.com/Raveendiran-RR/TechEvents
+2. Click into the "images" folder
+3. Click "Add file" → "Upload files"
+4. Upload your event photos:
+   - hero-banner.jpg (1920x600px)
+   - ai-cloud-day-2025.jpg (800x600px)
+   - devtools-day-2025.jpg (800x600px)
+   - kubetools-day-2024.jpg (800x600px)
+   - neo4j-workshop-2024.jpg (800x600px)
+
+========================================
+STEP 3: UPDATE CONTACT EMAIL
+========================================
+
+1. On GitHub, click on "events.json"
+2. Click the pencil icon (Edit)
+3. Find line with: "email": "your-email@example.com"
+4. Change to your real email
+5. Commit changes
+
+========================================
+STEP 4: ADD TO WORDPRESS
+========================================
+
+1. Open "wordpress-code.html" file
+2. Copy ALL the content (Ctrl+A, Ctrl+C)
+3. In WordPress:
+   - Go to Pages → Add New (or edit existing)
+   - Click + → Search "Custom HTML"
+   - Paste the code
+   - Update/Publish page
+4. Your events will appear automatically!
+
+========================================
+✅ VERIFICATION CHECKLIST
+========================================
+
+After upload, verify:
+□ https://github.com/Raveendiran-RR/TechEvents shows all files
+□ events.json is visible on GitHub
+□ README.md displays correctly
+□ images/ folder exists
+□ WordPress page shows events
+
+========================================
+🔄 TO ADD NEW EVENTS
+========================================
+
+1. Edit events.json on GitHub
+2. Click pencil icon
+3. Add event to "upcoming" or "past" array
+4. Commit changes
+5. WordPress updates automatically!
+
+========================================
+❓ NEED HELP?
+========================================
+
+If you have issues:
+1. Check all files uploaded correctly
+2. Verify events.json syntax at jsonlint.com
+3. Clear WordPress cache
+4. Open browser in incognito mode
+
+========================================
