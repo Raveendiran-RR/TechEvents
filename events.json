@@ -12,19 +12,26 @@
   },
   "upcoming": [
     {
-      "id": "ai-cloud-day-2025",
-      "title": "AI in the Cloud Day Bengaluru",
-      "date": "2025-08-23",
-      "displayDate": "August 23, 2025",
-      "location": "SONY India Software Centre, Bangalore",
-      "talk": "Building smarter AI systems with Microsoft Autogen",
-      "description": "Presenting on AI agent orchestration using Microsoft AutoGen framework, demonstrating how to build intelligent multi-agent systems with Docker.",
-      "tags": ["Docker", "AutoGen", "Multi-Agent AI"],
-      "organizer": "Docker Bangalore",
-      "eventLink": "https://www.meetup.com/Docker-Bangalore/",
-      "slidesLink": "",
-      "image": "https://raw.githubusercontent.com/Raveendiran-RR/TechEvents/main/images/ai-cloud-day-2025.jpg"
-    }
+  "id": "Cloud-Native-AI-Day",
+  "title": "Cloud Native & AI Day: Beyond ChatBots — Let’s talk about Agentic Stack",
+  "date": "7-Feb-25",
+  "displayDate": "7-Feb-25",
+  "location": "LeadSquad, Bengaluru",
+  "talk": "Get ready for some exciting news on Docker MCP",
+  "description": "",
+  "tags": [
+    "Docker-AI",
+    "VibeCoding",
+    "AgenticAI",
+    "RAG",
+    "MCP",
+    "DockerModelRunner"
+  ],
+  "organizer": "LeadSquad | Collabnix",
+  "eventLink": "https://www.meetup.com/collabnix/events/313001410/",
+  "slidesLink": "",
+  "image": "https://secure.meetupstatic.com/photos/event/c/b/6/c/highres_532372076.webp?w=640"
+}
   ],
   "past": [
     {
