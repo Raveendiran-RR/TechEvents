@@ -15,8 +15,8 @@
   "id": "Docker-for-AI-Day-Bengaluru",
   "title": "Docker for AI Day Bengaluru",
   "date": "18-April-26",
-  "displayDate": "16-April-26",
-  "location": "TBD,
+  "displayDate": "18-April-26",
+  "location": "TBD",
   "talk": "Get ready for some exciting talks on Docker for AI",
   "description": "Docker for AI Day Bengaluru is a full-day, community-driven event dedicated to exploring how Docker powers modern AI workflows - from local model inference to multi-agent systems running in production",
   "tags": [
